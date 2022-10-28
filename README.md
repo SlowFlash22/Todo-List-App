@@ -7,3 +7,4 @@ This app uses **react** framework and **react router** to route pages without re
                     <li>Show the current list of todo tasks</li>
                     <li>Delete the tasks</li>
                     <li>Saves the unattended(not deleted) tasks to be retrieved for next time :)</li>
+- This is a beginner react-based project :)
