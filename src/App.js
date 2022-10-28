@@ -53,7 +53,7 @@ function App() {
   }, [todos])
   return (
     <>
-      <Router>
+      <Router basename='Todo-List-App'>
         <Header title="Todos List📃" searchBar={false} />
         <Switch>
           <Route exact path="/" render={() => {
